@@ -1,0 +1,15 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5%;
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding: 10px 0px;
+
+
+}
+footer a {
+    color:white;
+    font-size: 20px;
+}
